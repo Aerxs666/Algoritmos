@@ -62,9 +62,9 @@ else:
     print("No se ingresaron notas válidas.")
 """
 
-""""
+
 promedio = float(input("Ingresa tu promedio final: "))
 if promedio >= 3.0:
     print("¡Aprobaste! ")
 else:
-    print("Reprobaste.  Sigue intentando.")"""
+    print("Reprobaste.  Sigue intentando.")
